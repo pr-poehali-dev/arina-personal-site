@@ -30,7 +30,7 @@ const Index = () => {
       title: 'Арина',
       subtitle: '17 лет, Киров',
       content: 'Привет! Меня зовут Арина, мне 17 лет. Я живу в прекрасном городе Киров и каждый день открываю для себя что-то новое.',
-      image: 'https://cdn.poehali.dev/projects/84f1b801-55d9-4be0-bbc4-ed3f112b88d9/files/2e65776f-5a49-43bf-a8b5-a95ffed3e44e.jpg',
+      image: 'https://cdn.poehali.dev/files/4d253855-230b-423f-bfb1-da040df2a6a1.jpeg',
       icon: 'Sparkles',
       color: 'from-pink-100 to-purple-100'
     },
@@ -39,7 +39,7 @@ const Index = () => {
       title: 'Мой город',
       subtitle: 'Киров',
       content: 'Киров — это мой родной город, где я родилась и выросла. Здесь я нашла свои любимые места, познакомилась с удивительными людьми и создала множество воспоминаний.',
-      image: 'https://cdn.poehali.dev/projects/84f1b801-55d9-4be0-bbc4-ed3f112b88d9/files/a6be004f-7dd7-46ea-8887-7dbc20d0f739.jpg',
+      image: 'https://cdn.poehali.dev/files/f6088751-d028-474c-abb9-418213f7c43e.jpeg',
       icon: 'MapPin',
       color: 'from-blue-100 to-cyan-100'
     },
